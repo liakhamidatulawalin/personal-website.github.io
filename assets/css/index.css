@@ -1,0 +1,10 @@
+.nav-section {
+  background-color: #133e87;
+}
+
+.header {
+  background-color: black;
+  background-image: url(/assets/img/bg-header.jpg);
+  display: block;
+  opacity: 50%;
+}
